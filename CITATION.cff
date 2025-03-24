@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gutierrez-Escobar
+    given-names: A.J.
+title: "SpacekmerSDI: Spaced k-mer Based Structural Differentiation Index Analysis"
+version: 3.0.0
+doi: 10.5281/zenodo.15079737
+date-released: 2024-03-24
+url: https://github.com/Gutierrez-Escobar-AJ/SpacekmerSDI
+repository-code: https://github.com/Gutierrez-Escobar-AJ/SpacekmerSDI
+license: MIT
