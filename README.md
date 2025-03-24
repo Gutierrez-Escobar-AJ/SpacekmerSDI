@@ -114,12 +114,13 @@ This project is licensed under the [MIT License](LICENSE).
 If you use **SpacekmerSDI** in your research, please cite:
 
 ```
-@software{spacekmersdi2024,
-  author = {Gutierrez-Escobar-AJ},
-  title = {SpacekmerSDI: Spaced k-mer Based Structural Differentiation Index Analysis},
-  version = {v3.0},
-  year = {2024},
-  url = {https://github.com/yourusername/SpacekmerSDI}
+Title: "SpacekmerSDI: Spaced k-mer Based Structural Differentiation Index Analysis"
+version: 3.0.0
+doi: 10.5281/zenodo.15079737
+date-released: 2024-03-24
+url: https://github.com/Gutierrez-Escobar-AJ/SpacekmerSDI
+repository-code: https://github.com/Gutierrez-Escobar-AJ/SpacekmerSDI
+license: MIT
 }
 ```
 
