@@ -3,7 +3,7 @@
 **Tool Name:** SpacekmerSDI  
 **Version:** 3.0  
 **Main Script:** SpacekmerSDI_v3.py  
-**Author:** [Your Name]  
+**Author:** Gutierrez-Escobar-AJ  
 **Repository:** https://github.com/yourusername/SpacekmerSDI
 
 ---

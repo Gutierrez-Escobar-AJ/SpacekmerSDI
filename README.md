@@ -2,7 +2,7 @@
 
 **Spaced k-mer Based Structural Differentiation Index Analysis**  
 **Version:** 3.0  
-**Author:** [Your Name]  
+**Author:** Gutierrez-Escobar-AJ  
 **Repository:** https://github.com/yourusername/SpacekmerSDI  
 
 ---
@@ -115,7 +115,7 @@ If you use **SpacekmerSDI** in your research, please cite:
 
 ```
 @software{spacekmersdi2024,
-  author = {Your Name},
+  author = {Gutierrez-Escobar-AJ},
   title = {SpacekmerSDI: Spaced k-mer Based Structural Differentiation Index Analysis},
   version = {v3.0},
   year = {2024},
