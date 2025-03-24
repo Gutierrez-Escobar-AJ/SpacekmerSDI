@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+results/
+*.log
+*.out
+*.tmp
+*.bak
+
+# Conda environment files
+env/
+.conda/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter and Python history
+.ipynb_checkpoints/
+.history
+
+# VSCode settings (optional)
+.vscode/
